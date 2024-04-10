@@ -1,0 +1,14 @@
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.exe
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.deps.json
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.runtimeconfig.json
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.dll
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\bin\Debug\net6.0\ConsoleApp1.pdb
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.AssemblyInfo.cs
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.dll
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\refint\ConsoleApp1.dll
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.pdb
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ConsoleApp1.genruntimeconfig.cache
+D:\KPIstudent\Programming\2lab1\4lab\Exercise 1\ConsoleApp1\ConsoleApp1\obj\Debug\net6.0\ref\ConsoleApp1.dll
